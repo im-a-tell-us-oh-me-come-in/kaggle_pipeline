@@ -3067,11 +3067,12 @@
         },
         "werkzeug": {
             "hashes": [
-                "sha256:7ea2d48322cc7c0f8b3a215ed73eabd7b5d75d0b50e31ab006286ccff9e00b8f",
-                "sha256:f979ab81f58d7318e064e99c4506445d60135ac5cd2e177a2de0089bfd4c9bd5"
+                "sha256:5111e36e91086ece91f93268bb39b4a35c1e6f1feac762c9c822ded0a4e322dc",
+                "sha256:6a548b0e88955dd07ccb25539d7d0cc97417ee9e179677d22c7041c8f078ce67"
             ],
-            "markers": "python_version >= '3.7'",
-            "version": "==2.2.2"
+            "index": "pypi",
+            "markers": "python_version >= '3.9'",
+            "version": "==3.1.5"
         },
         "wheel": {
             "hashes": [
